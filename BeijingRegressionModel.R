@@ -1,6 +1,8 @@
+# test edit? 
 setwd("/Users/eylulaygun/Desktop/Year\ 5/STAT\ 306/Group\ project/BeijingRealEstateRegressionAnalysis" )
 getwd()
 library("dplyr")
+
 
 # PART1: Data cleaning and general preparation
 # data source: https://www.kaggle.com/ruiqurm/lianjia
